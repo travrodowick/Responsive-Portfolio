@@ -1,0 +1,29 @@
+.container{
+    width: 40px;
+    height: 40px;
+    color: ;
+    margin: 0%;
+     }
+
+.body {
+    margin: 0%;
+    background-color: white;
+    }
+
+.header {
+    color: white;
+    background:;}
+
+
+
+nav {
+
+    float: right}
+
+nav ul{
+    margin:  0;
+    padding: 0;
+    list-style:  none}
+
+    nav li {display: inline-block;
+    margin: 0%}
